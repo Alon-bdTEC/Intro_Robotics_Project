@@ -3,6 +3,14 @@
 ## Project Overview
 This project focuses on a 6R serial robotic arm (FANUC model M-10iA) mounted on a rail, designed to scan barcodes of nuclear waste storage containers in a storage corridor.
 
+## Trajectory Plots
+
+### Combined Absolute Movement
+![Combined Absolute Movement](Combined_Abs.png)
+
+### Combined Relative Movement
+![Combined Relative Movement](Combined_Rel.png)
+
 ## Key Specifications
 - Robot: 6R Serial Robot (FANUC M-10iA)
 - Mounting: Fixed on a rail in a nuclear waste storage corridor
