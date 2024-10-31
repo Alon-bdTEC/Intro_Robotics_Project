@@ -6,10 +6,10 @@ This project focuses on a 6R serial robotic arm (FANUC model M-10iA) mounted on 
 ## Trajectory Plots
 
 ### Combined Absolute Movement
-![Combined Absolute Movement](Combined_Abs.png)
+![Combined Absolute Movement](Combined_Abs.jpg)
 
 ### Combined Relative Movement
-![Combined Relative Movement](Combined_Rel.png)
+![Combined Relative Movement](Combined_Rel.jpg)
 
 ## Key Specifications
 - Robot: 6R Serial Robot (FANUC M-10iA)
