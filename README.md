@@ -28,9 +28,8 @@ This project focuses on a 6R serial robotic arm (FANUC model M-10iA) mounted on 
 ![Combined Absolute Movement](Combined_Abs.jpg)
 
 **Video Demonstration:**
-<video width="640" height="480" controls>
-  <source src="my_video_abs.mp4" type="video/mp4">
-  Your browser does not support the video tag.
+<video controls src="my_video_abs.mp4" width="600" type="video/mp4">
+Your browser does not support the video tag.
 </video>
 
 ### Relative Movement
@@ -38,9 +37,8 @@ This project focuses on a 6R serial robotic arm (FANUC model M-10iA) mounted on 
 ![Combined Relative Movement](Combined_Rel.jpg)
 
 **Video Demonstration:**
-<video width="640" height="480" controls>
-  <source src="my_video_rel.mp4" type="video/mp4">
-  Your browser does not support the video tag.
+<video controls src="my_video_rel.mp4" width="600" type="video/mp4">
+Your browser does not support the video tag.
 </video>
 
 ### Visualization Details
