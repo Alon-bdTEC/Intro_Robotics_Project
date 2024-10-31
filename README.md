@@ -3,13 +3,29 @@
 ## Project Overview
 This project focuses on a 6R serial robotic arm (FANUC model M-10iA) mounted on a rail, designed to scan barcodes of nuclear waste storage containers in a storage corridor.
 
-## Trajectory Plots
+## Repository Contents
 
-### Combined Absolute Movement
-![Combined Absolute Movement](Combined_Abs.jpg)
+### Documentation
+- `ProjectEnglishVR.pdf`: Comprehensive project report in English
+- `PDF_Project_Code.pdf`: Detailed code documentation
+- `README.md`: Project overview and repository guide
 
-### Combined Relative Movement
-![Combined Relative Movement](Combined_Rel.jpg)
+### Code
+- `Project_Code.m`: MATLAB implementation of the robotic arm trajectory and analysis
+
+### Visualizations
+- `Combined_Abs.jpg`: Absolute motion plot (relative to initial ground position)
+- `Combined_Rel.jpg`: Relative motion plot (relative to the moving robot base)
+
+### Motion Demonstration
+- Two video files showing continuous motion with time step dt = 0.01 [sec]
+  - Demonstrating the robot's precise trajectory and barcode scanning motion
+
+## Motion Visualization Explanation - Trajectory Plots
+- **Absolute Movement Plot (`Combined_Abs.jpg`)**: 
+  Shows the robot's motion relative to the initial ground reference point
+- **Relative Movement Plot (`Combined_Rel.jpg`)**: 
+  Illustrates the motion from the perspective of the moving robot base
 
 ## Key Specifications
 - Robot: 6R Serial Robot (FANUC M-10iA)
