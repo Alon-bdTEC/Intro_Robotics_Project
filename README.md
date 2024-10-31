@@ -24,10 +24,10 @@ This project focuses on a 6R serial robotic arm (FANUC model M-10iA) mounted on 
 ## Motion Visualization Explanation - Trajectory Plots
 - **Absolute Movement Plot (`Combined_Abs.jpg`)**: 
   Shows the robot's motion relative to the initial ground reference point
-    ![Combined Absolute Movement](Combined_Abs.png)
+    ![Combined Absolute Movement](Combined_Abs.jpg)
 - **Relative Movement Plot (`Combined_Rel.jpg`)**: 
   Illustrates the motion from the perspective of the moving robot base
-   ![Combined Relative Movement](Combined_Rel.png)
+   ![Combined Relative Movement](Combined_Rel.jpg)
 
 
 ## Key Specifications
