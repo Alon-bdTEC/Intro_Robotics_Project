@@ -28,18 +28,22 @@ This project focuses on a 6R serial robotic arm (FANUC model M-10iA) mounted on 
 ![Combined Absolute Movement](Combined_Abs.jpg)
 
 **Video Demonstration:**
-[Absolute Motion Video](my_video_abs.mp4)
+<video width="640" height="480" controls>
+  <source src="my_video_abs.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ### Relative Movement
 **Plot:**
 ![Combined Relative Movement](Combined_Rel.jpg)
 
 **Video Demonstration:**
-[Relative Motion Video](my_video_rel.mp4)
+<video width="640" height="480" controls>
+  <source src="my_video_rel.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ### Visualization Details
 - Both plots and videos show the robot's motion with a time step of dt = 0.01 [sec]
 - Demonstrates precise trajectory and barcode scanning motion
 - Videos provide continuous motion representation
-
-(... rest of the previous README content remains the same ...)
