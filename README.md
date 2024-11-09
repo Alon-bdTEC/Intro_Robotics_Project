@@ -27,15 +27,15 @@ This project focuses on a 6R serial robotic arm (FANUC model M-10iA) mounted on 
 **Plot:**
 ![Combined Absolute Movement](Combined_Abs.jpg)
 
-**Video Demonstration:**
-![Demo Animation](my_video_abs.gif)
-
 ### Relative Movement
 **Plot:**
 ![Combined Relative Movement](Combined_Rel.jpg)
 
-**Video Demonstration:**
-![Demo Animation](my_video_rel.gif)
+### Video Demonstration
+**Both motions:**
+This project focuses on trajectory planning for a 6R robot. It includes both relative and absolute motions.
+
+[Watch the video on YouTube: Robotics Project - 6R Robot Trajectory Planning](https://youtu.be/9L6bgPsm5y8)
 
 ### Visualization Details
 - Both plots and videos show the robot's motion with a time step of dt = 0.01 [sec]
